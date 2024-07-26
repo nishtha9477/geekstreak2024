@@ -16,5 +16,6 @@ In this challenge, I am committed to solving a new coding problem every day for 
 
 1. **Day 1**: Check for BST
 2. **Day 2**: Array to BST
+3. **Day 3**: K-Pangrams
 
 
