@@ -18,6 +18,7 @@ In this challenge, I am committed to solving a new coding problem every day for 
 2. **Day 2**: Array to BST
 3. **Day 3**: K-Pangrams
 4. **Day 4**: Form a palindrome
+5. **Day 5**: Remove Duplicates
 
 
 
