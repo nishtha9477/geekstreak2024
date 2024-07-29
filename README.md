@@ -1,3 +1,4 @@
+Row with max 1s
 # Geek Streak 2024 Challenge
 
 Welcome to my repository for the #geekstreak2024 challenge! 🚀
@@ -19,6 +20,7 @@ In this challenge, I am committed to solving a new coding problem every day for 
 3. **Day 3**: K-Pangrams
 4. **Day 4**: Form a palindrome
 5. **Day 5**: Remove Duplicates
+6. **Day 6**: Row with max 1s
 
 
 
