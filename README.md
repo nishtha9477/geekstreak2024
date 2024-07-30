@@ -21,6 +21,8 @@ In this challenge, I am committed to solving a new coding problem every day for 
 4. **Day 4**: Form a palindrome
 5. **Day 5**: Remove Duplicates
 6. **Day 6**: Row with max 1s
+7. **Day 7**: Rat in a Maze Problem - I
+
 
 
 
