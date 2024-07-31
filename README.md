@@ -22,6 +22,7 @@ In this challenge, I am committed to solving a new coding problem every day for 
 5. **Day 5**: Remove Duplicates
 6. **Day 6**: Row with max 1s
 7. **Day 7**: Rat in a Maze Problem - I
+8. **Day 8**: Longest Common Prefix of Strings
 
 
 
