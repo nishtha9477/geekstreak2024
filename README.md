@@ -24,6 +24,8 @@ In this challenge, I am committed to solving a new coding problem every day for 
 7. **Day 7**: Rat in a Maze Problem - I
 8. **Day 8**: Longest Common Prefix of Strings
 9. **Day 9**: Spirally traversing a matrix
+10. **Day 10**: Edit Distance
+
 
 
 
