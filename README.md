@@ -25,6 +25,8 @@ In this challenge, I am committed to solving a new coding problem every day for 
 8. **Day 8**: Longest Common Prefix of Strings
 9. **Day 9**: Spirally traversing a matrix
 10. **Day 10**: Edit Distance
+11. **Day 11**: The Celebrity Problem
+
 
 
 
