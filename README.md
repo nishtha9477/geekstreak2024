@@ -27,6 +27,8 @@ In this challenge, I am committed to solving a new coding problem every day for 
 10. **Day 10**: Edit Distance
 11. **Day 11**: The Celebrity Problem
 12. **Day 12**: N meetings in one room
+13. **Day 13**: Bottom View of Binary Tree
+
 
 
 
