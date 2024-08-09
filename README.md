@@ -31,6 +31,7 @@ In this challenge, I am committed to solving a new coding problem every day for 
 14. **Day 14**: Validate an IP Address
 15. **Day 15**: K-th element of two Arrays
 16. **Day 16**: Sum Tree
+17. **Day 17**: Maximize Array Value After Rearrangement
 
 
 
