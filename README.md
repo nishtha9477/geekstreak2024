@@ -34,6 +34,7 @@ In this challenge, I am committed to solving a new coding problem every day for 
 17. **Day 17**: Maximize Array Value After Rearrangement
 18. **Day 18**: Rotate a Linked List
 19. **Day 19**: Job Sequencing Problem
+20. **Day 20**: Sum of Middle elements of two sorted arrays
 
 
 
