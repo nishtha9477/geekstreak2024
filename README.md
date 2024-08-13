@@ -15,26 +15,27 @@ In this challenge, I am committed to solving a new coding problem every day for 
 
 ## Day-wise Problems
 
-1. **Day 1**: Check for BST
-2. **Day 2**: Array to BST
-3. **Day 3**: K-Pangrams
-4. **Day 4**: Form a palindrome
-5. **Day 5**: Remove Duplicates
-6. **Day 6**: Row with max 1s
-7. **Day 7**: Rat in a Maze Problem - I
-8. **Day 8**: Longest Common Prefix of Strings
-9. **Day 9**: Spirally traversing a matrix
-10. **Day 10**: Edit Distance
-11. **Day 11**: The Celebrity Problem
-12. **Day 12**: N meetings in one room
-13. **Day 13**: Bottom View of Binary Tree
-14. **Day 14**: Validate an IP Address
-15. **Day 15**: K-th element of two Arrays
-16. **Day 16**: Sum Tree
-17. **Day 17**: Maximize Array Value After Rearrangement
-18. **Day 18**: Rotate a Linked List
-19. **Day 19**: Job Sequencing Problem
-20. **Day 20**: Sum of Middle elements of two sorted arrays
+ **Day 1**: Check for BST
+ **Day 2**: Array to BST
+ **Day 3**: K-Pangrams
+ **Day 4**: Form a palindrome
+ **Day 5**: Remove Duplicates
+ **Day 6**: Row with max 1s
+ **Day 7**: Rat in a Maze Problem - I
+ **Day 8**: Longest Common Prefix of Strings
+ **Day 9**: Spirally traversing a matrix
+ **Day 10**: Edit Distance
+ **Day 11**: The Celebrity Problem
+ **Day 12**: N meetings in one room
+ **Day 13**: Bottom View of Binary Tree
+ **Day 14**: Validate an IP Address
+ **Day 15**: K-th element of two Arrays
+ **Day 16**: Sum Tree
+ **Day 17**: Maximize Array Value After Rearrangement
+ **Day 18**: Rotate a Linked List
+ **Day 19**: Job Sequencing Problem
+ **Day 20**: Sum of Middle elements of two sorted arrays
+ **Day 21**: Square root of a number
 
 
 
