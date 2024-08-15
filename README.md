@@ -37,3 +37,4 @@ In this challenge, I am committed to solving a new coding problem every day for 
 20. **Day 20**: Sum of Middle Elements of Two Sorted Arrays
 21. **Day 21**: Square Root of a Number
 22. **Day 22**: Longest Common Substring
+23. **Day 23**: Add 1 to a Linked List Number
