@@ -41,3 +41,4 @@ In this challenge, I am committed to solving a new coding problem every day for 
 24. **Day 24**: Maximize The Cut Segments
 25. **Day 25**: Product array puzzle
 26. **Day 26**: Split an array into two equal Sum subarrays
+27. **Day 27**: Kth Smallest
